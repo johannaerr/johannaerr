@@ -1,13 +1,20 @@
-- 👋 Hi there, I’m @johannaerr
-- 👀 I’m interested in Web Development, BackEnd Development and SQL Server Database
-- 🌱 I’m currently learning about Canvas for JavaScript
-- 📫 How to reach me - johannaerr@gmail.com
-- 😄 Pronouns: Mrs.
-- ⚡ Fun fact: Practice make perfect. And better late than never.
 
-- <html>
+
+<html>
   <body>
-    <h3>Programación web I</h3>
+    - 👋 Hi there, <b>I’m @johannaerr</b>
+    <br>
+    - 👀 I’m interested in <b>FrontEnd, BackEnd and FullStack Development, also in SQL Server Databases</b>
+    <br>
+    - 🌱 I’m currently learning about <b>Canvas for JavaScript</b>
+    <br>
+    - 📫 How to reach me - <b>johannaerr@gmail.com</b>
+    <br>
+    - 😄 Pronouns: <b>Mrs</b>
+    <br>
+    - ⚡ Fun fact: <b>Practice make perfect and better late than never</b>
+    <br>
+    - ✨ Actual Class: <b>Programación web I</b>
   </body>
 </html>
 
